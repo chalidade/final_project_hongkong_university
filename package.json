@@ -1,0 +1,28 @@
+{
+  "name": "final-project",
+  "version": "1.0.0",
+  "description": "This is final project in Front-end Web UI Framework Hogkong University of Scient and Technology",
+  "main": "index.js",
+  "scripts": {
+    "start" : "npm run lite",
+    "lite": "lite-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chalidade/final_project_hongkong_university.git"
+  },
+  "keywords": [
+    "final",
+    "project"
+  ],
+  "author": "Chalid Ade Rahman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chalidade/final_project_hongkong_university/issues"
+  },
+  "homepage": "https://github.com/chalidade/final_project_hongkong_university#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
