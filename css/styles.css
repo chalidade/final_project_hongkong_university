@@ -1,0 +1,128 @@
+/* Initialization */
+.text-primary-color {
+    color: #6C60E1;
+}
+
+.bg-primary-color {
+    background: #6C60E1;
+}
+
+.nav-margin {
+    padding-left: 100px;
+}
+
+.active {
+    color: #6C60E1 !important;
+    font-weight: 700;
+}
+
+/* Button */
+.btn-login {
+    width: 118px;
+    height: 37px;
+    border: 1px solid #6C60E1;
+    border-radius: 20px;
+    color: #6C60E1;
+    background-color: #fff;
+}
+
+.btn-login-fill {
+    padding: 14px 50px;
+    border: 1px solid #6C60E1;
+    border-radius: 500px;
+    color: #fff;
+    background-color: #6C60E1;
+}
+
+/* Display */
+.display-right {
+    float: right;
+}
+
+.display-inline {
+    display: inline-block;
+}
+
+.display-flex {
+    display: flex;
+}
+
+/* Font Size */
+.font-size-10 {
+    font-size: 10px;
+}
+.font-size-12 {
+    font-size: 12px;
+}
+.font-size-14 {
+    font-size: 14px;
+}
+.font-size-16 {
+    font-size: 16px;
+}
+
+.font-size-18 {
+    font-size: 18px;
+}
+
+.font-size-20 {
+    font-size: 20px;
+}
+
+.font-size-22 {
+    font-size: 22px;
+}
+
+.font-size-24 {
+    font-size: 24px;
+}
+
+.font-size-32 {
+    font-size: 32px;
+}
+
+/* Block */
+.border-none {
+    border: none;
+}
+
+.block-collaboration {
+    width: 100%;
+    background: rgba(24, 0, 255, 0.05);
+    border-radius: 10px;
+}
+
+.block-login {
+    width: 100%;
+    background: #FFFFFF;
+    border-radius: 50px;
+}
+
+/* width */
+.width-10 {
+    width: 10%;
+}
+.width-20 {
+    width: 20%;
+}
+.width-30 {
+    width: 30%;
+}
+.width-40 {
+    width: 40%;
+}
+.width-50 {
+    width: 50%;
+}
+.width-60 {
+    width: 60%;
+}
+.width-70 {
+    width: 70%;
+}
+.width-80 {
+    width: 80%;
+}
+.width-90 {
+    width: 90%;
+}
